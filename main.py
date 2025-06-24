@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 from agents import create_diego, create_aisha, create_elena, create_nakamura
 
-sys.path.insert(0, '..')
+# sys.path.insert(0, '..')
 
 import tinytroupe
 from tinytroupe.agent import TinyPerson
